@@ -3,6 +3,7 @@
 # Semantic UI
 
 [![Join the chat at https://gitter.im/Semantic-Org/Semantic-UI](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Semantic-Org/Semantic-UI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fw96k%2FSemantic-UI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fw96k%2FSemantic-UI?ref=badge_shield)
 
 [![CDNJS](https://img.shields.io/cdnjs/v/semantic-ui.svg)](https://cdnjs.com/libraries/semantic-ui/)
 
@@ -114,3 +115,7 @@ If you'd like to start a conversation about Semantic feel free to e-mail me at [
 [![Flattr This](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=jlukic&url=https%3A%2F%2Fgithub.com%2Fjlukic%2FSemantic-UI)
 
 <a href="http://packagequality.com/#?package=semantic-ui"><img src="http://npm.packagequality.com/badge/semantic-ui.png"/></a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fw96k%2FSemantic-UI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fw96k%2FSemantic-UI?ref=badge_large)
